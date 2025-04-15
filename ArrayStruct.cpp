@@ -9,11 +9,11 @@ struct alamat {
 struct mahasiswa {
     string nim;
     string nama;
-    string alamat;
+    alamat alamat;
 };
 int main() {
-    for (int m = 0; m < 2; m++)
     mahasiswa mhs[2];
+    for (int m = 0; m < 2; m++)
 
     {
         cout << "Data ke-" << m + 1 << endl;

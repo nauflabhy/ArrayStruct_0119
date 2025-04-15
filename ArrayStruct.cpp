@@ -23,4 +23,11 @@ int main() {
         cout << endl;
     }
 
-    
+    cout << "Data Mahasiswa" << endl;
+    for (int m = 0; m < 2; m++)
+    {
+        cout << "Data ke-" << m + 1 << endl;
+        cout << "NIM  :" << mhs[m].nim << endl;
+        cout << "NAMA :" << mhs[m].nama << endl;
+        
+    }

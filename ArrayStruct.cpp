@@ -29,5 +29,8 @@ int main() {
         cout << "Data ke-" << m + 1 << endl;
         cout << "NIM  :" << mhs[m].nim << endl;
         cout << "NAMA :" << mhs[m].nama << endl;
-        
+        cout << "ALAMAT DESA :" << mhs[m].alamat.desa << endl;
+        cout << "ALAMAT KOTA :" << mhs[m].alamat.kota << endl;
+        cout << endl;
     }
+    

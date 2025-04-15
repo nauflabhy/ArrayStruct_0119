@@ -10,6 +10,10 @@ struct mahasiswa {
     string nim;
     string nama;
     string alamat;
-}
-int main() {
-    for (int m = 0; m < 2; m++) 
+};
+int main(){
+    for (int m = 0; m < 2; m++)
+
+    {
+      
+    }

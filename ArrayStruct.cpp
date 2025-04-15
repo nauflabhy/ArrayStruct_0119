@@ -33,4 +33,6 @@ int main() {
         cout << "ALAMAT KOTA :" << mhs[m].alamat.kota << endl;
         cout << endl;
     }
-    
+
+    return 0;
+}

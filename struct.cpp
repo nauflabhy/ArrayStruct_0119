@@ -19,3 +19,7 @@ int main()
     cin >> mhs.nama;
     cout << "Masukan alamat = ";
     cin >> mhs.alamat;
+
+    cout << endl;
+    cout << "Menampilkan Data" << endl;
+    cout << endl;
